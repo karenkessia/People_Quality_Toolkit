@@ -36,9 +36,9 @@ Descreva o impacto observado:
 ---
 
 ## Contexto
-- Time / Área:
-- Processo relacionado:
-- Desde quando ocorre:
+- Time / Área: ___________________________________________________________________
+- Processo relacionado: __________________________________________________________
+- Desde quando ocorre:  __________________________________________________________
 
 ---
 

@@ -1,11 +1,11 @@
 # Scorecard de Avaliação — People Quality Toolkit
 
 ## Informações Gerais
-- Processo avaliado:
-- Nome da pessoa avaliada:
-- Avaliador(a):
-- Data:
-- Contexto (vaga, ciclo, promoção, etc):
+- Processo avaliado: ____________________________________________________________
+- Nome da pessoa avaliada: ______________________________________________________
+- Avaliador(a):  ________________________________________________________________
+- Data: _______________________
+- Contexto (vaga, ciclo, promoção, etc):  _______________________________________
 
 ---
 
@@ -52,3 +52,4 @@
 
 ## Assinatura
 - Avaliador(a):
+                      ____________________________________________________________

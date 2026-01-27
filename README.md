@@ -63,12 +63,22 @@ Não é necessário ter background em QA.
 <img width="20" height="30" alt="image" src="https://github.com/user-attachments/assets/ec50b4dc-07b4-42c8-9329-c4c48842fd41" />
  Como este repositório está organizado? </h2>
 
- Este repositório é estruturado em camadas:
+ Este repositório é estruturado em **camadas**, não em fluxo obrigatório.
 
-- **Conceitos centrais** → explicação de ideias e frameworks  
-- **Exemplos aplicados** → como esses conceitos funcionam na prática  
-- **Templates e ferramentas** → artefatos reutilizáveis  
-- **Reflexões** → pensamento crítico sobre pessoas, qualidade e sistemas  
+- **Conceitos centrais**  
+  → explicações, metáforas e fundamentos  
+
+- **Examples/**  
+  → aplicações práticas em recrutamento, onboarding e cultura  
+
+- **Templates/**  
+  → scorecards, checklists e modelos reutilizáveis  
+
+- **Case studies/**  
+  → exemplos narrativos de People Quality em ação  
+
+- **Resources/**  
+  → referências e leituras complementares  
 
 Você pode explorá-lo **sem ordem fixa**. Não existe um “caminho correto”.
 

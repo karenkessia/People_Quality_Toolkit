@@ -93,19 +93,16 @@ Pessoas merecem o mesmo cuidado que sistemas críticos.
 Qualidade não é controle. Mas sim **atenção, intenção e responsabilidade**. 
 
 ---
-###  Sobre a autora
-
-Criado por **Karen Késsia**, profissional de **RH Tech e People Ops** com **mindset de Engenharia de Qualidade**.
-
-Atua na interseção entre:
-- pessoas  
-- processos  
-- tecnologia  
-- documentação  
-- pensamento sistêmico  
-
-Este projeto reflete uma transição consciente de QA para RH Tech, levando práticas de qualidade para contextos humanos com respeito, ética e profundidade.
+<h3>Autora</h3>
+<p>
+  <strong>Karen Késsia</strong><br>
+  Profissional de <strong>RH Tech e People Ops</strong> com <strong>mindset de Engenharia de Qualidade</strong>. <br>
+  </p>
 
 ---
 
+> Este projeto reflete uma transição consciente de QA para RH Tech, levando práticas de qualidade para contextos humanos com respeito, ética e profundidade.
+
+
+---
  Feedbacks, discussões e adaptações são bem-vindos.

@@ -1,4 +1,12 @@
-# People Quality Toolkit
+<h1 align="center">
+  People Quality Toolkit
+</h1>
+
+
+![banner_hr](https://github.com/user-attachments/assets/563e2dfb-f70c-4447-90c0-155ebbd84a47)
+
+
+
 
 > Aplicando o mindset de Qualidade de Software a Recursos Humanos e People Operations.
 
@@ -8,9 +16,7 @@ Isso não é sobre transformar pessoas em software.
 É sobre trazer **clareza, consistência, ciclos de feedback e qualidade ética** para processos que envolvem pessoas.
 
 ---
-<h2>
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/29f1aeaa-ef92-4530-b080-781c88590c94" />
- Por que isso existe? </h2>
+<h2>Por que isso existe? </h2>
 
 Processos humanos falham pelos mesmos motivos que sistemas de software:
 
@@ -26,7 +32,7 @@ Este toolkit adapta esse aprendizado para sistemas de pessoas.
 
 ---
 <h2>
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/65cdd0c9-20f0-459c-82e5-b404dbac1418" />
+<img width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/65cdd0c9-20f0-459c-82e5-b404dbac1418" />
  O que você vai encontrar aqui </h2>
 
 Este repositório funciona como uma **caixa de ferramentas, playground conceitual e material de referência**.
@@ -56,7 +62,7 @@ Não é necessário ter background em QA.
 ---
 
 <h2>
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ec50b4dc-07b4-42c8-9329-c4c48842fd41" />
+<img width="20" height="30" alt="image" src="https://github.com/user-attachments/assets/ec50b4dc-07b4-42c8-9329-c4c48842fd41" />
  Como este repositório está organizado? </h2>
 
  Este repositório é estruturado em camadas:
@@ -81,7 +87,7 @@ Este toolkit existe para **apoiar o pensamento**, não para substituí-lo.
 ---
 
 <h2>
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b3984748-23f4-48d5-9e1f-0856e4b48f78" />
+<img width="20" height="30" alt="image" src="https://github.com/user-attachments/assets/b3984748-23f4-48d5-9e1f-0856e4b48f78" />
 Philosophy</h2>
 
 Pessoas merecem o mesmo cuidado que sistemas críticos.

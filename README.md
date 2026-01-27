@@ -6,14 +6,12 @@
 ![banner_hr](https://github.com/user-attachments/assets/563e2dfb-f70c-4447-90c0-155ebbd84a47)
 
 
-
-
 > Aplicando o mindset de Qualidade de Software a Recursos Humanos e People Operations.
 
  O **People Quality Toolkit** é um repositório conceitual e prático que explora como **princípios, heurísticas e formas de pensar da Qualidade de Software (QA)** podem ser aplicados a contextos de **RH, People Ops e RH Tech**.
 
 Isso não é sobre transformar pessoas em software.  
-É sobre trazer **clareza, consistência, ciclos de feedback e qualidade ética** para processos que envolvem pessoas.
+> É sobre trazer **clareza, consistência, ciclos de feedback e qualidade ética** para processos que envolvem pessoas.
 
 ---
 <h2>Por que isso existe? </h2>
@@ -92,8 +90,7 @@ Philosophy</h2>
 
 Pessoas merecem o mesmo cuidado que sistemas críticos.
 
-Qualidade não é controle.  
-Qualidade é **atenção, intenção e responsabilidade**.
+Qualidade não é controle. Mas sim **atenção, intenção e responsabilidade**. 
 
 ---
-Feedbacks, discussões e adaptações são bem-vindos.
+ Feedbacks, discussões e adaptações são bem-vindos.

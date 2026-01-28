@@ -60,7 +60,7 @@ Escolha o caminho que faz mais sentido para você:
 <details>
   <summary><strong> I work with Recruitment</strong></summary>
   <ul>
-    <li><a href="examples/recruiting">Applied examples</a></li>
+    <li><a href="examples/recruitment">Applied examples</a></li>
     <li><a href="templates/scorecards">Scorecards & evaluation tools</a></li>
     <li><a href="case-studies">Case studies</a></li>
   </ul>
@@ -87,8 +87,8 @@ Escolha o caminho que faz mais sentido para você:
 <details>
   <summary><strong> I deal with People Issues</strong></summary>
   <ul>
-    <li><a href="templates/issue-templates">Issue templates</a></li>
-    <li><a href="examples">Real issues examples</a></li>
+    <li><a href="templates/issue-template">Issue templates</a></li>
+    <li><a href="examples/people-issues">Real issues examples</a></li>
     <li><a href="case-studies">Case studies</a></li>
   </ul>
 </details>

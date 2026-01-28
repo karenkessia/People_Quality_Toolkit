@@ -46,6 +46,54 @@ Aqui você encontrará conceitos como:
 
 Tudo é documentado com **linguagem clara**, pouco jargão e foco prático.
 
+Este não é um repositório para ser lido do início ao fim.
+Ele foi pensado para ser explorado a partir do seu contexto.
+
+---
+<h3> Choose your path</h3>
+
+<p>
+Este playbook pode ser explorado a partir do <strong>seu ponto de atuação</strong>.
+Escolha o caminho que faz mais sentido para você:
+</p>
+
+<details>
+  <summary><strong> I work with Recruitment</strong></summary>
+  <ul>
+    <li><a href="examples/recruiting">Applied examples</a></li>
+    <li><a href="templates/scorecards">Scorecards & evaluation tools</a></li>
+    <li><a href="case-studies">Case studies</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong> I work with Onboarding</strong></summary>
+  <ul>
+    <li><a href="examples/onboarding">Onboarding examples</a></li>
+    <li><a href="templates/checklists">Quality checklists</a></li>
+    <li><a href="case-studies">Case studies</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong> I want to improve Culture</strong></summary>
+  <ul>
+    <li><a href="examples/culture">Cultural regression examples</a></li>
+    <li><a href="templates/checklists">Cultural tools</a></li>
+    <li><a href="case-studies">Case studies</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong> I deal with People Issues</strong></summary>
+  <ul>
+    <li><a href="templates/issue-templates">Issue templates</a></li>
+    <li><a href="examples">Real issues examples</a></li>
+    <li><a href="case-studies">Case studies</a></li>
+  </ul>
+</details>
+
+
 ---
 
 <h2> Para quem é este repositório? </h2>

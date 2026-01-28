@@ -50,7 +50,9 @@ Este não é um repositório para ser lido do início ao fim.
 Ele foi pensado para ser explorado a partir do seu contexto.
 
 ---
-<h3> Choose your path</h3>
+<h3> 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6a017164-a487-468a-b0d6-c8d9529a86ea" />
+Choose your path</h3>
 
 <p>
 Este playbook pode ser explorado a partir do <strong>seu ponto de atuação</strong>.
